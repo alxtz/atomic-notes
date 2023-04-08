@@ -1,0 +1,26 @@
+- internet was designed so well (not like man-made)
+---
+- **most systems today are data-intensive**
+   - challenges
+      - amount, complexity, change speed (of data)
+   - common functionality
+      - **store, find later (DB)**
+      - **remember expensive operation (caches)**
+      - **async processing**
+      - **process accumulated data**
+---
+- we're so used to data systems
+   - **good abstractions had been built**
+      - DB as storage engine
+   - there're still challenges
+      - unique reqs for each system
+         - caching
+         - search indexes
+---
+- this book
+   - principles & practicalities
+   - ch1
+      - main goal, fundamentals
+         - **reliable**
+         - **scalable**
+         - **maintainable**

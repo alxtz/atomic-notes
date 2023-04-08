@@ -1,0 +1,32 @@
+- components (DB, queue, caches)
+   - distinct access patterns, performance, implementations
+---
+- why do we need a cohesive concept (data system)
+   - new tools emerged (doesn't fit into trad categories)
+      - **Redis (DB * queue)**
+      - **Kafka (queue * DB-like duribility)**
+   - reqs are now wide-ranging
+      - no tool that fits all
+      - had to break down work (implementations)
+      - **tools are now "stitched" to form an application**
+   - example
+      - BE managed caching layer (Memcached, cache-aside)
+      - full-text search server (Elasticsearch/Solr)
+      - BE is responsible of keeping state in sync
+      - exposed API to client
+         - you now have a special-purpose data system
+---
+- factors that influences system design
+   - team member
+   - legacy, dependencies
+   - risk, compliance
+---
+- major concerns of the book
+   - **reliability**
+      - should continue to function, even face faults
+   - **scalability**
+      - system would eventually grow
+      - reasonable ways to deal with growth
+   - **maintainability**
+      - humans are the major contributor to system
+      - how can team work productively
