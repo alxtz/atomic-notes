@@ -1,0 +1,1 @@
+![[2.2.3 (decompose by DDD's sub-domain).svg]]
