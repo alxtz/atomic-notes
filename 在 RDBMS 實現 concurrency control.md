@@ -1,4 +1,4 @@
-![](canvas/__imgs/在%20RDBMS%20實現%20concurrency%20control-0516231211.svg)
+![](在%20RDBMS%20實現%20concurrency%20control-0516231211.svg)
 
 ---
 

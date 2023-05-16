@@ -4,4 +4,6 @@
 
 - [DDIA Ch1 > Reliability](DDIA%20Ch1%20>%20Reliability.md)
 
-- ![](__imgs/DDIA%20(index)-0422161503.png)
+---
+
+![](__imgs/DDIA%20(index)-0422161503.png)
