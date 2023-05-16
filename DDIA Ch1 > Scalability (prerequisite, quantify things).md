@@ -32,33 +32,33 @@
             - partial index
 ---
 - (describe) performance
-		investigate what happens if load increases
-			if resource unchanged, is performance affected
-			resource to increase, if you were to keep up
-		need performance numbers
-		(example) Hadoop
-			throughput (records processed per sec)
-			total time to run a fixed-size data job
-		latency & response time
-			response time -> what client observes
-			service time -> actual time to process the request
-			latency -> any type of waiting (queued) period
-		response time distribution in prod -> could vary a lot
-		case study
-			outliers takes much longer
-				maybe slower request just contain more data
-			avg not being a good metric
-				there might be no users that experienced avg
-			percentiles (百分位數/中位數/pr)
-				median (half experienced slower/faster)
-				common in SLA requirements
-			how bad are outliers (tail latencies)
-				common (p95, p99, p999)
-			why are outliers significant
-				directly affects UX
-				though samples are small, ones that had most data are often the most valuable customer
-				extreme outliers might be hard to optimize (as some being too edgy)
-				slow request might hold up processing power (head-of-line blocking) 
-			FE usually calls multiple APIs, would have to wait for slowest one (tail latency aimplification)
-			useful algorithms (forward decay, t-digest, Hdr...)
-			prevent averaging percentiles from several machines
+	- investigate what happens if load increases
+		- if resource unchanged, is performance affected
+		- resource to increase, if you were to keep up
+	- need performance numbers
+   	- (example) Hadoop
+      	- throughput (records processed per sec)
+      	- total time to run a fixed-size data job
+	- latency & response time
+		- response time -> what client observes
+		- service time -> actual time to process the request
+		- latency -> any type of waiting (queued) period
+	- response time distribution in prod -> could vary a lot
+	- case study
+		- outliers takes much longer
+			- maybe slower request just contain more data
+		- avg not being a good metric
+			- there might be no users that experienced avg
+		- percentiles (百分位數/中位數/pr)
+			- median (half experienced slower/faster)
+			- common in SLA requirements
+		- how bad are outliers (tail latencies)
+			- common (p95, p99, p999)
+		- why are outliers significant
+			- directly affects UX
+			- though samples are small, ones that had most data are often the most valuable customer
+			- extreme outliers might be hard to optimize (as some being too edgy)
+			- slow request might hold up processing power (head-of-line blocking) 
+		- FE usually calls multiple APIs, would have to wait for slowest one (tail latency aimplification)
+			- useful algorithms (forward decay, t-digest, Hdr...)
+			- prevent averaging percentiles from several machines
