@@ -1,4 +1,4 @@
-![[在 RDBMS 實現 concurrency control-0516231211.svg]]]
+![[在 RDBMS 實現 concurrency control-0516231211.svg]]
 
 ---
 
