@@ -1,4 +1,4 @@
-![[2.2.5 (obstacles to decomposing an application).svg]]
+![[2.2.5.svg]]
 
 ---
 

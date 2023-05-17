@@ -6,7 +6,7 @@
 		{"type":"file","file":"Consistent Hashing > classic applications.md","id":"5f144516f79fb41a","x":-400,"y":760,"width":720,"height":300},
 		{"type":"file","file":"Consistent Hashing > tradeoff, drawbacks, hiccups.md","id":"bf32a4a85309e0b1","x":-400,"y":1120,"width":720,"height":740},
 		{"type":"file","file":"Consistent Hashing > 參考資料.md","id":"1c45c0ad3ecee895","x":-1360,"y":40,"width":680,"height":220},
-		{"type":"file","file":"__imgs/Consistent Hashing 1.svg","id":"c2384ef90c4cbc13","x":-1360,"y":370,"width":680,"height":662}
+		{"type":"file","file":"__imgs/Consistent-Hashing-1.svg","id":"c2384ef90c4cbc13","x":-1360,"y":370,"width":680,"height":662}
 	],
 	"edges":[
 		{"id":"6b5fe4bb35938efa","fromNode":"266a3024e8b46f86","fromSide":"right","toNode":"ffec345d55d44268","toSide":"left"},

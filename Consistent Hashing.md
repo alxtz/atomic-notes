@@ -5,4 +5,4 @@
 
 ---
 
-![[Consistent Hashing 1.svg]]
+![[Consistent-Hashing-1.svg]]
