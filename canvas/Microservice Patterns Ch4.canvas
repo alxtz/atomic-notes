@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"type":"file","file":"MS Patterns Ch4 > Intro.md","id":"ff48ccf3982ed942","x":-320,"y":-260,"width":680,"height":1520},
+		{"id":"d32ba0e1e748000d","x":360,"y":-260,"width":1300,"height":1800,"type":"file","file":"MS Patterns Ch4 > 4.1.3 Saga Pattern.md"},
+		{"id":"154549ba14f95235","x":1660,"y":-260,"width":1140,"height":1240,"type":"file","file":"MS Patterns Ch4 > 4.1 & 4.1.1 & 4.1.2 Txn Management Needs & Problems.md"}
+	],
+	"edges":[]
+}
