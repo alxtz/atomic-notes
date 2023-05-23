@@ -1,8 +1,8 @@
 {
-  "accentColor": "",
-  "cssTheme": "Obsidian Nord",
-  "interfaceFontFamily": "Quicksand",
-  "textFontFamily": "Quicksand",
   "monospaceFontFamily": "OperatorMono Nerd Font",
-  "baseFontSize": 15
+  "cssTheme": "Obsidian Nord",
+  "textFontFamily": "Quicksand",
+  "interfaceFontFamily": "Quicksand",
+  "baseFontSize": 12,
+  "accentColor": ""
 }

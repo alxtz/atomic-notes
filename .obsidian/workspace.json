@@ -1,39 +1,39 @@
 {
   "main": {
-    "id": "dbf7858259571a12",
+    "id": "06ac1bf06b75c01d",
     "type": "split",
     "children": [
       {
-        "id": "74a42fef756d89f5",
+        "id": "f80b162a21fba259",
         "type": "tabs",
         "children": [
           {
-            "id": "d03e8bcb14bf45ec",
+            "id": "4b5130cdaafd1cfa",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "__imgs/20230516213311.png"
+                "file": "MS Patterns Ch4 > 4.4.3 & 4.4.4 OrderCommandHandlers & OrderServiceConfiguration (class).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
-            },
-            "group": "92121ee7b9653261"
-          }
-        ]
-      },
-      {
-        "id": "7318414cdc8335b5",
-        "type": "tabs",
-        "children": [
+            }
+          },
           {
-            "id": "29515114b863ea73",
+            "id": "82cea915b4c6366b",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "canvas",
               "state": {
-                "file": "__imgs/20230516213311.png"
+                "file": "canvas/Microservice Patterns Ch4.canvas",
+                "viewState": {
+                  "x": -58.795166580340236,
+                  "y": -5.1942112684474715,
+                  "zoom": 0.9018583616614343
+                }
               }
-            },
-            "group": "92121ee7b9653261"
+            }
           }
         ]
       }
@@ -41,25 +41,25 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "64adca074c5522aa",
+    "id": "c2e9c5c892f71621",
     "type": "split",
     "children": [
       {
-        "id": "61ee1dc9b1732d67",
+        "id": "833c2f64887c8f7d",
         "type": "tabs",
         "children": [
           {
-            "id": "9d3fc01b55ea453d",
+            "id": "478d614e098bb1e5",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTimeReverse"
+                "sortOrder": "alphabetical"
               }
             }
           },
           {
-            "id": "a6cffe35efacf487",
+            "id": "21aacb5c06a7bc5e",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -74,15 +74,7 @@
             }
           },
           {
-            "id": "29df0200f087a2ea",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
-            "id": "6f8f28f8dae285f1",
+            "id": "cbfc82ca4b98322b",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -93,121 +85,110 @@
       }
     ],
     "direction": "horizontal",
-    "width": 319.5
+    "width": 351.5024719238281
   },
   "right": {
-    "id": "e64e30e65ed5076c",
+    "id": "26113970d00a9af1",
     "type": "split",
     "children": [
       {
-        "id": "54a5d717aa0d66ed",
+        "id": "138bca24c353064a",
         "type": "tabs",
         "children": [
           {
-            "id": "dbd12c81fd8e2cc7",
+            "id": "d9ee56ab98d18483",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "__imgs/20230516213311.png",
+                "file": "MS Patterns Ch4 > 4.4.3 & 4.4.4 OrderCommandHandlers & OrderServiceConfiguration (class).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
           {
-            "id": "75d68f7d1ce62ca0",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "__imgs/20230516213311.png",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "ad5a8d04e281845a",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "ed04146b95d1524a",
+            "id": "bb3c206c014f1203",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "__imgs/20230516213311.png"
+                "file": "MS Patterns Ch4 > 4.4.3 & 4.4.4 OrderCommandHandlers & OrderServiceConfiguration (class).md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 417.5,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:Open quick switcher": true,
+      "graph:Open graph view": true,
+      "canvas:Create new canvas": true,
+      "daily-notes:Open today's daily note": true,
+      "command-palette:Open command palette": true,
+      "markdown-importer:Open format converter": true
     }
   },
-  "active": "9d3fc01b55ea453d",
+  "active": "4b5130cdaafd1cfa",
   "lastOpenFiles": [
-    "__imgs/20230516214149.png",
-    "__imgs/Pasted image 20230516214948.png",
-    "DDIA (index).md",
-    "Consistent Hashing.md",
-    "Consistent Hashing > 參考資料.md",
-    "DDIA Ch1 > Intro.md",
-    "DDIA Ch1 > Reliability.md",
-    "DDIA Ch1 > Scalability (prerequisite, quantify things).md",
-    "DDIA Ch1 > thinking about (data systems).md",
-    "MS Patterns Ch2 > The MS architecture is an architectural style (2.1.3).md",
-    "MS Patterns Ch2 > Identifying the system operations (2.2.1).md",
-    "MS Patterns Ch2 > decomposition guidelines (2.2.4).md",
-    "MS Patterns Ch2 > decompose by DDD's sub-domain (2.2.3).md",
-    "MS Patterns Ch2 > decompose by business capabilities (2.2.2).md",
-    "MS Patterns Ch2 > Overview of architectural styles (2.1.2).md",
-    "MS Patterns Ch2 > What is software architecture and why does it matter? (2.1.1).md",
-    "在 RDBMS 實現 concurrency control.md",
-    "Consistent Hashing > classic applications.md",
-    "Consistent Hashing > problem to solve.md",
-    "Consistent Hashing > tradeoff, drawbacks, hiccups.md",
-    "Consistent Hashing > what is consistent hashing.md",
-    "MS Patterns Ch2 > obstacles to decomposing an application (2.2.5).md",
-    "__imgs/Consistent Hashing.svg",
-    "__imgs/Consistent Hashing 1.svg",
+    "__imgs/0524010809.svg",
+    "MS Patterns Ch4 > Intro.md",
+    "MS Patterns Ch4 > 4.4.3 & 4.4.4 OrderCommandHandlers & OrderServiceConfiguration (class).md",
+    "MS Patterns Ch4 > 4.4.2 Implementation of Create Order Saga.md",
+    "__imgs/0524010717.svg",
+    "MS Patterns Ch4 > 4.4.1 OrderService class.md",
+    "__imgs/0524010632.svg",
     "canvas/Consistent Hashing.canvas",
     "canvas/DDIA.canvas",
-    "canvas/DDIA references.canvas",
     "canvas/Microservice Patterns Ch2.canvas",
-    "__imgs/2.2.5 (obstacles to decomposing an application).svg",
-    "__imgs/2.2.4 (decomposition guidelines).svg",
-    "canvas.md",
+    "MS Patterns Ch2 > The MS architecture is an architectural style (2.1.3).md",
+    "在 RDBMS 實現 concurrency control.md",
+    "canvas/Microservice Patterns Ch4.canvas",
+    "MS Patterns Ch2 > decompose by business capabilities (2.2.2).md",
+    "Consistent Hashing > classic applications.md",
+    "Consistent Hashing.md",
+    "MS Patterns Ch4 > 4.4 Designing Create Order Saga.md",
+    "MS Patterns Ch4 > 4.3.2 Countermeasures for the lack of Isolation.md",
+    "MS Patterns Ch4 > 4.2.2 Orchestration-based Sagas.md",
+    "__imgs/Consistent-Hashing.svg",
+    "__imgs/Consistent-Hashing-1.svg",
+    "__imgs/20230516215829.png",
+    "__imgs/20230516215802.png",
+    "__imgs/20230516215728.png",
+    "__imgs/20230516215655.png",
+    "__imgs/20230516215553.png",
+    "__imgs/20230516215007.png",
+    "MS Patterns Ch2 > What is software architecture and why does it matter(2.1.1).md",
+    "MS Patterns Ch4 > 4.3 & 4.3.1 Lack of Isolation & Anomalies.md",
+    "MS Patterns Ch4 > 4.2 & 4.2.1 Coordinating Sagas(Choreography-based).md",
+    "MS Patterns Ch4 > 4.1.3 Saga Pattern.md",
+    "MS Patterns Ch4 > 4.1 & 4.1.1 & 4.1.2 Txn Management Needs & Problems.md",
+    "canvas/Untitled.md",
+    "MS Patterns Ch2 > What is software architecture and why does it matter? (2.1.1).md",
+    "canvas/DDIA references.canvas",
+    "Consistent Hashing > problem to solve.md",
+    "DDIA (index).md",
+    "DDIA Ch1 > Scalability (prerequisite, quantify things).md",
+    "MS Patterns Ch2 > decomposition guidelines (2.2.4).md",
+    "MS Patterns Ch2 > obstacles to decomposing an application (2.2.5).md",
+    "DDIA Ch1 > Reliability.md",
+    "canvas/__imgs",
     "canvas",
-    "__imgs/2.2.3 (decompose by DDD's sub-domain).svg",
-    "__imgs/2.2.2.svg",
-    "__imgs/2.1.2.svg",
-    "__imgs/2.1.1.svg",
-    "__imgs/2.1.3.svg"
+    "(mindmap) DDIA.canvas",
+    "(mindmap) consistent hashing.canvas",
+    "(mindmap) DDIA 論文 roadmap.canvas",
+    "分散式系統心智圖 1.canvas",
+    "__imgs"
   ]
 }

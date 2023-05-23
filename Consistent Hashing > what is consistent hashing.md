@@ -1,6 +1,6 @@
 - conceptually
    - **classic "ring diagram" that maps "hashing space -> server id"**
-     ![](0225005019.png)
+     ![](__imgs/0524010020.png)
      
 ---
 
