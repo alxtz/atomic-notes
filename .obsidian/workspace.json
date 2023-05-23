@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "dbf7858259571a12",
+    "type": "split",
+    "children": [
+      {
+        "id": "74a42fef756d89f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d03e8bcb14bf45ec",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "__imgs/20230516213311.png"
+              }
+            },
+            "group": "92121ee7b9653261"
+          }
+        ]
+      },
+      {
+        "id": "7318414cdc8335b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "29515114b863ea73",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "__imgs/20230516213311.png"
+              }
+            },
+            "group": "92121ee7b9653261"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "64adca074c5522aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "61ee1dc9b1732d67",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d3fc01b55ea453d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "a6cffe35efacf487",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "29df0200f087a2ea",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "6f8f28f8dae285f1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 319.5
+  },
+  "right": {
+    "id": "e64e30e65ed5076c",
+    "type": "split",
+    "children": [
+      {
+        "id": "54a5d717aa0d66ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dbd12c81fd8e2cc7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "__imgs/20230516213311.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "75d68f7d1ce62ca0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "__imgs/20230516213311.png",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ad5a8d04e281845a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ed04146b95d1524a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "__imgs/20230516213311.png"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9d3fc01b55ea453d",
+  "lastOpenFiles": [
+    "__imgs/20230516214149.png",
+    "__imgs/Pasted image 20230516214948.png",
+    "DDIA (index).md",
+    "Consistent Hashing.md",
+    "Consistent Hashing > 參考資料.md",
+    "DDIA Ch1 > Intro.md",
+    "DDIA Ch1 > Reliability.md",
+    "DDIA Ch1 > Scalability (prerequisite, quantify things).md",
+    "DDIA Ch1 > thinking about (data systems).md",
+    "MS Patterns Ch2 > The MS architecture is an architectural style (2.1.3).md",
+    "MS Patterns Ch2 > Identifying the system operations (2.2.1).md",
+    "MS Patterns Ch2 > decomposition guidelines (2.2.4).md",
+    "MS Patterns Ch2 > decompose by DDD's sub-domain (2.2.3).md",
+    "MS Patterns Ch2 > decompose by business capabilities (2.2.2).md",
+    "MS Patterns Ch2 > Overview of architectural styles (2.1.2).md",
+    "MS Patterns Ch2 > What is software architecture and why does it matter? (2.1.1).md",
+    "在 RDBMS 實現 concurrency control.md",
+    "Consistent Hashing > classic applications.md",
+    "Consistent Hashing > problem to solve.md",
+    "Consistent Hashing > tradeoff, drawbacks, hiccups.md",
+    "Consistent Hashing > what is consistent hashing.md",
+    "MS Patterns Ch2 > obstacles to decomposing an application (2.2.5).md",
+    "__imgs/Consistent Hashing.svg",
+    "__imgs/Consistent Hashing 1.svg",
+    "canvas/Consistent Hashing.canvas",
+    "canvas/DDIA.canvas",
+    "canvas/DDIA references.canvas",
+    "canvas/Microservice Patterns Ch2.canvas",
+    "__imgs/2.2.5 (obstacles to decomposing an application).svg",
+    "__imgs/2.2.4 (decomposition guidelines).svg",
+    "canvas.md",
+    "canvas",
+    "__imgs/2.2.3 (decompose by DDD's sub-domain).svg",
+    "__imgs/2.2.2.svg",
+    "__imgs/2.1.2.svg",
+    "__imgs/2.1.1.svg",
+    "__imgs/2.1.3.svg"
+  ]
+}

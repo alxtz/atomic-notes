@@ -1,1 +1,1 @@
-![[2.2.4 (decomposition guidelines).svg]]
+![[2.2.4.svg]]

@@ -1,6 +1,6 @@
 - conceptually
    - **classic "ring diagram" that maps "hashing space -> server id"**
-     ![](__imgs/Consistent%20Hashing%20>%20what%20is%20consistent%20hashin-0225005019.png)
+     ![](0225005019.png)
      
 ---
 
