@@ -1,0 +1,1 @@
+![[5.2.5 Aggregate Rules Aggregate Granularity Business Logic with Aggregates.svg]]

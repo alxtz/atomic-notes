@@ -1,8 +1,16 @@
 {
 	"nodes":[
-		{"type":"file","file":"MS Patterns Ch4 > Intro.md","id":"ff48ccf3982ed942","x":-320,"y":-260,"width":680,"height":1520},
-		{"id":"d32ba0e1e748000d","x":360,"y":-260,"width":1300,"height":1800,"type":"file","file":"MS Patterns Ch4 > 4.1.3 Saga Pattern.md"},
-		{"id":"154549ba14f95235","x":1660,"y":-260,"width":1140,"height":1240,"type":"file","file":"MS Patterns Ch4 > 4.1 & 4.1.1 & 4.1.2 Txn Management Needs & Problems.md"}
+		{"type":"file","file":"MS Patterns Ch4 > 4.2 & 4.2.1 Coordinating Sagas(Choreography-based).md","id":"e6fbfc6473239f89","x":-280,"y":1540,"width":1300,"height":1700},
+		{"type":"file","file":"MS Patterns Ch4 > 4.2.2 Orchestration-based Sagas.md","id":"b9e1d112439149e6","x":1020,"y":1540,"width":1300,"height":1920},
+		{"type":"file","file":"MS Patterns Ch4 > Intro.md","id":"ff48ccf3982ed942","x":-280,"y":-300,"width":680,"height":1520},
+		{"type":"file","file":"MS Patterns Ch4 > 4.1 & 4.1.1 & 4.1.2 Txn Management Needs & Problems.md","id":"154549ba14f95235","x":400,"y":-300,"width":1140,"height":1240},
+		{"type":"file","file":"MS Patterns Ch4 > 4.1.3 Saga Pattern.md","id":"d32ba0e1e748000d","x":1540,"y":-300,"width":1300,"height":1800},
+		{"type":"file","file":"MS Patterns Ch4 > 4.3 & 4.3.1 Lack of Isolation & Anomalies.md","id":"78ebfdf98afcc82a","x":-280,"y":3520,"width":1300,"height":1000},
+		{"type":"file","file":"MS Patterns Ch4 > 4.4 Designing Create Order Saga.md","id":"bd4df2034c683563","x":-280,"y":5680,"width":1300,"height":960},
+		{"type":"file","file":"MS Patterns Ch4 > 4.4.1 OrderService class.md","id":"49c30699f2ad8eb9","x":1020,"y":5680,"width":1300,"height":1440},
+		{"type":"file","file":"MS Patterns Ch4 > 4.3.2 Countermeasures for the lack of Isolation.md","id":"5a89922925443720","x":1020,"y":3520,"width":1300,"height":2120},
+		{"type":"file","file":"MS Patterns Ch4 > 4.4.3 & 4.4.4 OrderCommandHandlers & OrderServiceConfiguration (class).md","id":"f25559470b4ccffb","x":3620,"y":5680,"width":1300,"height":640},
+		{"type":"file","file":"MS Patterns Ch4 > 4.4.2 Implementation of Create Order Saga.md","id":"5da84f82ff2dfe87","x":2320,"y":5680,"width":1300,"height":6240}
 	],
 	"edges":[]
 }

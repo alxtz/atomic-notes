@@ -1,0 +1,1 @@
+![[Ch5.1.2 Domain Model Pattern Domain-driven Design.svg]]

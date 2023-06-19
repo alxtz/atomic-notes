@@ -1,0 +1,1 @@
+![[Ch5.1 Transaction Script Pattern.svg]]

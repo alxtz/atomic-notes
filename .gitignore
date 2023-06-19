@@ -1,3 +1,7 @@
 .DS_Store
 .obsidian/workspace.json 
-.obsidian/appearance.json
+# .obsidian/appearance.json
+.obsidian/hotkeys.json
+.obsidian/backlink.json
+.obsidian/workspace
+.obsidian/hotkeys.json

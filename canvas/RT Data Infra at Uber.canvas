@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"type":"group","id":"043663eefdb20c06","x":-400,"y":-480,"width":2960,"height":2560,"label":"Ch1 ~ Ch4.1"},
+		{"type":"link","url":"https://be-studying-group.notion.site/Office-Hour-001-7aebc36220224b0fbd43151d27362cfa?pvs=4","id":"962120a6230b9645","x":563,"y":-420,"width":1957,"height":1145},
+		{"type":"link","url":"https://be-studying-group.notion.site/Sharings-001-Ch1-4-1-c57378079ab44dbe95d554f04f93ccbd?pvs=4","id":"cddc1a043f38805e","x":563,"y":798,"width":1957,"height":1255},
+		{"type":"file","file":"__imgs/RT Data Infra at Uber 4.1.svg","id":"904f2e1ed6da0b6a","x":-360,"y":-420,"width":834,"height":2474}
+	],
+	"edges":[]
+}
