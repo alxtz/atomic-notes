@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"type":"group","id":"680e249ef3f8e544","x":360,"y":-280,"width":640,"height":1440,"label":"Flink + Pinot 正式筆記"},
+		{"type":"group","id":"e124098ada6c9c8c","x":-320,"y":-280,"width":647,"height":1200,"label":"Flink 預習"},
+		{"type":"file","file":"__imgs/RT Infra at Uber 4.2 + 4.3 (pre-reading).svg","id":"ea12b2a46743e1ea","x":-280,"y":-235,"width":567,"height":1111},
+		{"type":"file","file":"__imgs/Real-time Data Infra at Uber 4.2, 4.3(Flink+Pinot).svg","id":"30a6eece7cef89dc","x":400,"y":-235,"width":568,"height":1369}
+	],
+	"edges":[]
+}

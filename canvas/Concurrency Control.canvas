@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"type":"group","id":"74c058018ffa25ae","x":-380,"y":-320,"width":1020,"height":3080,"label":"RDBMS"},
+		{"type":"file","file":"在 RDBMS 實現 concurrency control.md","id":"557aed6340848730","x":-360,"y":-280,"width":980,"height":3008}
+	],
+	"edges":[]
+}

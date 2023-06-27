@@ -1,4 +1,6 @@
 {
   "snapToObjects": true,
-  "snapToGrid": true
+  "snapToGrid": true,
+  "cardLabelVisibility": "never",
+  "zoomBreakpoint": 2.39
 }
