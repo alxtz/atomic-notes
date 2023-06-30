@@ -1,4 +1,4 @@
-![[0524010020.svg]]
+![[RDB-concurrency-control.svg]]
 
 ---
 
